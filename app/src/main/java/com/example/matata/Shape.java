@@ -5,4 +5,5 @@ public class Shape {
     private int y;
 
     String color = "blue";
+
 }
