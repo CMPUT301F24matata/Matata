@@ -1,6 +1,6 @@
-public class Circle extends Shape {
-    private double radius;
+package com.example.matata;
 
-    public Circle(double radius) {
-        this.radius = radius;
+
+public class Circle extends Shape {
+   
     }
